@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Warna dalam Light Mode -->
+    <color name="primaryColorLight">#3F51B5</color>
+    <color name="backgroundColorLight">#FFFFFF</color>
+    <color name="textColorLight">#000000</color>
+
+    <!-- Warna dalam Dark Mode -->
+    <color name="primaryColorDark">#2196F3</color>
+    <color name="backgroundColorDark">#121212</color>
+    <color name="textColorDark">#FFFFFF</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#6750A4</color>
+
+    <color name="shape_color_light">@color/black</color>
+    <color name="shape_color_dark">@color/white</color>
+</resources>

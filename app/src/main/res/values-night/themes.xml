@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Tema Dark Mode -->
+    <style name="Base.Theme.DimasHub" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/primaryColorDark</item>
+        <item name="android:windowBackground">@color/backgroundColorDark</item>
+        <item name="android:textColor">@color/textColorDark</item>
+    </style>
+
+</resources>

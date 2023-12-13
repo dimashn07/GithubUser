@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Tema Light Mode -->
+    <style name="Base.Theme.DimasHub" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primaryColorLight</item>
+        <item name="android:windowBackground">@color/backgroundColorLight</item>
+        <item name="android:textColor">@color/textColorLight</item>
+    </style>
+
+</resources>
